@@ -1,0 +1,46 @@
+
+#box{
+    height: 220px;
+    width: 400px;
+    border: 1px solid black;
+    background-color:white;
+    margin: 70px 150px;
+   
+}
+#circle{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+   margin: 10px 80px;
+   background-color:white;
+   border-radius: 50%;
+}
+#btn{
+    margin: 20px 200px;
+    cursor: pointer;
+}
+#btn input{
+    gap:1px;
+}
+#color-btn{
+    margin: 30px 250px;
+}
+#red{
+    color: white;
+    padding: 5px 5px;
+    width: 80px;
+    background-color: red;
+}
+#blue{
+    color: white;
+    padding: 5px 5px;
+    width: 80px;
+    background-color: blue;
+}
+#green{
+    color: white;
+    padding: 5px 5px;
+    width: 80px;
+    background-color: green;
+
+}
